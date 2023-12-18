@@ -1,6 +1,6 @@
 # Build your first VM
 
-Its time to build your first virtual machine, this part is only for Windows and VMware Workstation, reference the [**GUIDE**](/guide/intro.md)for more operating systems.
+Its time to build your first virtual machine, this part is only for Windows and VMware Workstation, reference the [**GUIDE**](/guide/intro.md) for more operating systems.
 
 ## Download an ISO file!!
 
