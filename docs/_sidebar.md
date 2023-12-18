@@ -3,7 +3,7 @@
 - Getting Started
 
   - [Basics](/getting-started/basics.md)
-  - [Where to Start?](/getting-started/start.md)
+  - [Where to Start](/getting-started/start.md)
   - [Image support](/getting-started/image.md)
 
 - Drawing tools
