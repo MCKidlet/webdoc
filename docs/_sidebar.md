@@ -6,15 +6,11 @@
   - [Where to Start](/getting-started/start.md)
   - [Build your first VM](/getting-started/building.md)
 
-- Drawing tools
+- VM Guide
 
-  - [Plant UML](/graphs/plantuml.md)
-  - [MermaidJS](/graphs/mermaid_js.md)
+  - [Guide Intro](/graphs/plantuml.md)
+  - [Windows]
+  - [MacOS]
+  - [Linux]
 
-- Embeds
-
-  - [YouTube](/embedded/youtube.md)
-  - [CodeSandbox](/embedded/codesandbox.md)
-
-- [My iOS/macOS Apps](https://apps.apple.com/us/developer/ezequiel-leonardo-aceto/id373296284)
-- [About me](https://github.com/eaceto)
+- [Credit](https://github.com/eaceto)
