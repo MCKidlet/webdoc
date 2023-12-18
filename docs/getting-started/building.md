@@ -1,10 +1,10 @@
 # Build your first VM
 
-Its time to build your first virtual machine, this part is only for Windows and VMware Workstation, reference the [**GUIDE**](/guide/intro.md) for more operating systems.
+Its time to build your first virtual machine, this part is only for Windows and VMware Workstation, reference the [**guide**](/guide/intro.md) for more operating systems.
 
 ## Download an ISO file!!
 
-You cant do much without an ISO file, aka a Disk Image File, this file contains the operating system and will allow you to set it up, you can use a website like [**Bobpony**](https://www.bobpony.com/downloads/) to download an iso. For this tutorial I'll be using a windows 10 (22H2) ISO.
+You cant do much without an ISO file, aka a Disk Image File, this file contains the operating system and will allow you to set it up, you can use a website like [**BobPony**](https://www.bobpony.com/downloads/) to download an iso. For this tutorial I'll be using a windows 10 (22H2) ISO.
 
 !!If you have an Installer Disk (physical disk) then you can skip this part.
 ## Open VMWare Workstation
