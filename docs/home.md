@@ -7,7 +7,7 @@
 
 ## Bad websites to use
 
-[**Archive.org**](https://www.archive.org) (This is because Archive.org has lots of viruses and slow download speeds!)
+* [**Archive.org**](https://www.archive.org) (This is because Archive.org has lots of viruses and slow download speeds!)
 
 # Credit
 
