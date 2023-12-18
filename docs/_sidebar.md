@@ -4,7 +4,7 @@
 
   - [Basics](/getting-started/basics.md)
   - [Where to Start](/getting-started/start.md)
-  - [Image support](/getting-started/image.md)
+  - [Build your first VM](/getting-started/building.md)
 
 - Drawing tools
 
