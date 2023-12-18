@@ -1,7 +1,7 @@
-Syntax highlighting
+Where should I start?
 -----
 
-Syntax Highlighting is implemented using [**prism**](https://prismjs.com/). Languages are autoloaded, so there is no need to modify **index.html**.
+It's really up to you where you want to start, but if it's your first time in the VM space I really reccomend trying to install windows 10 on a virtual machine, i have a [**GUIDE**] for it right on this document, if you're experienced then you can attempt to experiment with beta operating systems. (currently I am experimenting with beta operating systems on my [**TWITCH** https://www.twitch.tv/mckidlet]
 
 Tabs
 -----
