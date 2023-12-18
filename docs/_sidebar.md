@@ -8,9 +8,9 @@
 
 - VM Guide
 
-  - [Guide Intro](/graphs/plantuml.md)
-  - [Windows]
-  - [MacOS]
-  - [Linux]
+  - [Guide Intro](/guide/intro.md)
+  - [Windows](/guide/windows.md)
+  - [MacOS](/guide/macos.md)
+  - [Linux](/guide/linux.md)
 
 - [Credit](https://github.com/eaceto)
