@@ -2,8 +2,8 @@
 
 ## Good websites to use
 
-[**Bobpony**](https://www.bobpony.com/)
-[**BetaWiki**](https://betawiki.net/wiki/Main_Page)
+* [**Bobpony**](https://www.bobpony.com/)
+* [**BetaWiki**](https://betawiki.net/wiki/Main_Page)
 
 ## Bad websites to use
 
