@@ -7,7 +7,7 @@ You cant do much without an ISO file, aka a Disk Image File, this file contains 
 !!If you have an Installer Disk (physical disk) then you can skip this part.
 
 ## Open VMWare Workstation
-Time to open up that dreaded software that youll have to learn to love, youll probably come to a screen that displays a couple options, you'll want to click "Create a New Virtual Machine". After you click thst option youll get two other options, *Typical* and *Custom* install, pick *Typical* for this tutorial. You'll now get three options, *Installer Disk*, *Disk Image*, and *I'll install it later*.
+Time to open up VMware Workstation. Once you've opened the software you'll probably come to a screen that displays a couple options. You will want to click "Create a New Virtual Machine". After you click that option you'll get two other options, *Typical* and *Custom* install, pick *Typical* for this tutorial. You'll now get three options, *Installer Disk*, *Disk Image*, and *I'll install it later*.
 
 ## Installer Disk
 This is a physical disk on your computer.
