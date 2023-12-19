@@ -17,4 +17,4 @@ This guide will teach you how VM's work and their uses, this guide also goes in 
 We'll be learning VirtualBox since it's compatible with most OS' and is very simple to use for a first time user.
 
 When you launch into **VirtualBox** after downloading it, you will see a screen similar to the one shown below.
-![Launch Screen](/images/IMG_0386.png)
+![Launch Screen](/docs/guide/images/IMG_0386.png)
