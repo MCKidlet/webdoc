@@ -5,6 +5,7 @@ It's really up to you where you want to start, but if it's your first time in th
 You can always dip your toes into the deepend if you want but it's really best if you stick with the basics when youre starting off, there's a few expectations you need to understand before you start working with virtual machines.
 
 *Expecation 1* : You need to be ready to WAIT, things like operating system setup and creating the VM take time and patience better be something you're good with.
+?> Patience is a virtue.
 
 *Expectation 2* : Don't think you'll be able to install every OS under the sun, unfortunately, there's some operating systems that plain just do not work.
 
