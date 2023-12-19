@@ -1,40 +1,17 @@
-# EADocsTemplate
+# MCpcDOC Project
 
-### See the generated documentation on [this GitHub Page](https://eaceto.github.io/EADocsTemplate)
+## What is This Project?
 
-This is a GitHub Template for writing documentation for GitHub Pages. I tried to sum up in this template a series of tools / good practices that allows me, and any developer, to make professional documentation easily.
+  This project is intended to make IT feel simpler and easier for the average person.
 
-# Getting Started
+## Is this project only for Virtual Machines?
 
-## Creating a new repository
+  Possibly, it's planned that I'll add more in the future but virtual machine documentation is my current and only focus for this project.
 
-Create GitHub Repository using this template. For doing this, you can click on the following [link](https://github.com/eaceto/EADocsTemplate/generate), and complete the required information:
+## Can I use this project?
 
-* Owner
-* Repository name
+  You can use the source code to create your own documentation website; however, you must use my research and documentation with a citation if you are going to directly put my work in your research. If you're asking if you can copy the entire site and claim it as your own? No, you can't.
 
-It is not necessary to **Include all branched**, in fact this template has only **one branch**.
+## Why is it all on Github?
 
-![/docs/home/github-new-repository.png](/docs/home/github-new-repository.png)
-
-Then, setup your GitHub Page configuration to render Pages from **main** branch and **/docs** folder.
-
-![/docs/home/github-pages-setup.png](/docs/home/github-pages-setup.png)
-
-## Integrating into existent one
-
-This is simple as doing a copy/paste of the **docs** folder inside the docs folder or branch your are using when rendering your GitHub Page. Then ensure that GitHub Pages settings are according to your repository configuration.
-
-## Documentation structure
-
-### Side Bar
-
-**_sidebar.md** contains a list of links that will be rendered on the left.
-
-### Navigation Bar
-
-**_navbar.md** contains a list if lints that will be rendered on the upper-right corner.
-
-### Content
-
-The rest of the files included can modified, or even deleted if you want. It's just Markdown! [Docsify](https://docsify.js.org/#/) does the magic.
+  It's easy to host on github.
