@@ -18,3 +18,5 @@ We'll be learning VirtualBox since it's compatible with most OS' and is very sim
 
 When you launch into **VirtualBox** after downloading it, you will see a screen similar to the one shown below.
 ![Launch Screen](/docs/guide/images/IMG_0386.png)
+**Let's go through the options on this screen.** There's some comoon options you'll see across virtualization software, such as **importing a virutal machine**, **adding a virtual machine**, and **modifying a virtual machine**. These options are essential to modern virtualization software. Now you've started building your first virtual machine, the options may seem overwhelming when you're on your own, but don't fret, it's really simple.
+![Building Screen](/docs/guide/images/IMG_0387.jpeg)
