@@ -4,13 +4,11 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>EADocsTemplate</title>
+    <title>MCpcDOC</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
-    <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4.12.1/lib/themes/vue.css">
-    <link type="text/css" rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
 </head>
 
 <body>
@@ -20,10 +18,10 @@
         // initilise docsify
         window.$docsify = {
             plantuml: {
-                skin: 'classic',
+                skin: 'default',
             },
-            name: 'EADocsTemplate',
-            repo: 'https://github.com/eaceto/EADocsTemplate',
+            name: 'MCpcDOC',
+            repo: 'https://github.com/MCKidlet/webdoc',
             logo: 'media/images/eaceto_profile-round.png',
             homepage: 'home.md',
             coverpage: false, // enable to show _coverpage.md
@@ -36,7 +34,7 @@
             },
             auto2top: true,
             relativePath: true,
-            mergeNavbar: true,
+            mergeNavbar: false,
             maxLevel: 4,
             subMaxLevel: 2,
             tabs: {
