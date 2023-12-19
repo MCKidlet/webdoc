@@ -9,5 +9,5 @@
 - Helpful websites and documentation available.
 
 [Twitch](https://github.com/docsifyjs/docsify/)
-[Discord](https://discord.com/)
+[Discord](https://discord.gg/fF95ee9h8E/)
 [Get Started](#docsify)
