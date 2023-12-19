@@ -1,1 +1,13 @@
 # The VM Guide
+
+This guide will teach you how VM's work and their uses, this guide also goes in depth on programs such as VMware Workstation Pro and Player, Hyper-V, Oracle VirtualBox, UTM, QEMU, and Parallels.
+
+
+## The rundown
+
+* **VMware Workstation** : This software works on **Windows** and **Linux** and is one of the most mainstream virtualization solutions out there, this software can create **MacOS**, **Windows**, and **Linux** guests (VM's), this is one of the most versatile, user friendly virtualization solutions and is my biggest reccomendation.
+* **Hyper-V** : This software only works on **Windows** but you must have access to virtualization on your PC if you want to use Hyper-V, this will not work on the Home edition of Windows.
+* **Oracle VirtualBox** : This is a simple and user friendly software for beginners that are getting into the VM space, this software works on **Windows**, **MacOS** (Intel), and **Linux**, however this software is more limited and security updates often are late to come which can make VirtualBox a bad idea if you're planning to use it to test out malware.
+* **UTM** : This is a good alternative to **VirtualBox** and only runs on **MacOS** (11 and later) and **iOS**, this is a QEMU based virtualization solution that allows you to run virtual machines just like how you would on another solution, however you may be limited by Apple Silicon or an ARM SoC, **UTM** has the ability to emulate x86 and x64 processors but it is slow and unreliable.
+* **QEMU** : This is a pretty advanced virtualization solution that works on **Linux**, **MacOS** (UTM), and **Windows**. It is the most versatile and lets you run even an iPod on it, if you're using the bare bones version of **QEMU** then you'll have to get used to the command line interface rather than a user friendly UI, although there are some UI alternatives, they may be more limited then using the command line.
+* **Parallels** : This is the most simple and straightforward virtualizaation solution on this list, I am not planning on going in depth on this but I will mention it anyways, this solution only works on **MacOS** and allows you to run **Windows**, **Linux**, and **MacOS** on it, the features of **Parallels** are fairly limited but it is great if you're new and want to experiment a little.
