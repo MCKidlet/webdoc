@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# MCKidlet's VM Wonderland
+# MCpcDOC Project
 
 > This documentation website will give you tips and tricks on how to get into the world of Virtual Machines.
 
