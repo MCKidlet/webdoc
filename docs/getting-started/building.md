@@ -1,28 +1,39 @@
 # Build your first VM
-Its time to build your first virtual machine, this part is only for Windows and VMware Workstation, reference the [**guide**](/guide/intro.md) for more operating systems.
+Its time to build your first virtual machine, this part is only for Windows and VMware Workstation, reference the [**Guide**](/guide/intro.md) for more operating systems.
 
 ## Download an ISO file!!
 You cant do much without an ISO file, aka a Disk Image File, this file contains the operating system and will allow you to set it up, you can use a website like [**BobPony**](https://www.bobpony.com/downloads/) to download an iso. For this tutorial I'll be using a windows 10 (22H2) ISO.
 
 !!If you have an Installer Disk (physical disk) then you can skip this part.
 
-## Open VMWare Workstation
-Time to open up VMware Workstation. Once you've opened the software you'll probably come to a screen that displays a couple options. You will want to click "Create a New Virtual Machine". After you click that option you'll get two other options, *Typical* and *Custom* install, pick *Typical* for this tutorial. You'll now get three options, *Installer Disk*, *Disk Image*, and *I'll install it later*.
+## Create the VM in VMware Workstation
 
-## Installer Disk
-This is a physical disk on your computer.
+Firstly, you'll want to open **VMware Workstation**
+Click **New Virtual Machine**, and then select the type of virtual machine you'd like to make and select **Next**.
 
-## Disk Image!!
-This is an ISO File you've installed.
+But before you click Next, you might want to reference our [**Guide**](/guide/intro.md) to see what option would work best for your VM.
 
-!!For this tutorial I'll be using an ISO.
+* **Custom** : This option allows you to select what hardware compatibility option you'd like for your virtual machine, reference our [**Guide**](/guide/intro.md) for more information.
+* **Typical** (Reccomended) : This option allows you to use the hardware compatibility that your VMware Workstation installation comes with.
 
-## Install Later
-Put an ISO or Installer Disk on your VM later.
+Select if you have an **Installer Disk** or **ISO** file and select either the first or second option, if you want to skip **Easy Install** then you can select the **No Disk** option.
 
-## Continued - Create VM
-After you select the *Disk Image* option, you'll most likely be brought through an auto setup page, if not then follow the instructions shown on screen, now you'll want to name your VM, you can use the preset name or you can use a custom name you think would work nicely.
+**Tip**: The **Easy Install** option allows you to automate some processes like the Windows 10 guest setup stage.
 
-## Continued - Storage and finalization
-You're almost done, now you'll want to select how much storage you think your VM will require, if you selected the proper operating system on the previous step then you should have a good amount of storage for your VM, but i always use 80gb to 120gb to be safe. (It is reccomended you split the virtual disk unless its a small storage amount. Alright now you can click "Finish" to boot into your VM, if everything goes well then you should be loading into your setup.
+## Easy Install
 
+Click **Next** and enter your Windows 10 product key in the first box, then enter your PC Name in the second box and enter your password and password hint in the other boxes, then click **Next**.
+
+## Regular Install
+
+Click **Next** and select the operating system you'd prefer to install (For this tutorial I'll select Windows 10 x64) and then click **Next**.
+
+## Continued
+
+Enter your VM's Name (The name you'll see in VMware and while searching for it on your hosts filesystem.) then select the location your VM will be saved, then click **Next**.
+
+Select the amount of storage you'd like to allocate to the VM, I reccomend at least 80GB even if it doesn't automatically set the storage amount to that, then click **Next**
+
+Verify the configuration of your virtual machine and click **Next** if everything looks good, click **Customize Hardware** if you would like to make changes to your VM.
+
+Now you're ready to use your VM!
