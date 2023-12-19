@@ -11,3 +11,10 @@ This guide will teach you how VM's work and their uses, this guide also goes in 
 * [**UTM**](https://mac.getutm.app/) : This is a good alternative to **VirtualBox** and only runs on **MacOS** (11 and later) and **iOS**, this is a QEMU based virtualization solution that allows you to run virtual machines just like how you would on another solution, however you may be limited by Apple Silicon or an ARM SoC, **UTM** has the ability to emulate x86 and x64 processors but it is slow and unreliable.
 * [**QEMU**](https://www.qemu.org/) : This is a pretty advanced virtualization solution that works on **Linux**, **MacOS** (UTM), and **Windows**. It is the most versatile and lets you run even an iPod on it, if you're using the bare bones version of **QEMU** then you'll have to get used to the command line interface rather than a user friendly UI, although there are some UI alternatives, they may be more limited then using the command line.
 * [**Parallels**](https://www.parallels.com/) : This is the most simple and straightforward virtualizaation solution on this list, I am not planning on going in depth on this but I will mention it anyways, this solution only works on **MacOS** and allows you to run **Windows**, **Linux**, and **MacOS** on it, the features of **Parallels** are fairly limited but it is great if you're new and want to experiment a little.
+
+## Learning Virtualization Software
+
+We'll be learning VirtualBox since it's compatible with most OS' and is very simple to use for a first time user.
+
+When you launch into **VirtualBox** after downloading it, you will see a screen similar to the one shown below.
+![Launch Screen](/images/IMG_0386.png)
