@@ -9,4 +9,4 @@
 - Helpful websites and documentation available.
 
 [Twitch](https://github.com/docsifyjs/docsify/)
-[Get Started](/getting-started/basics.md)
+[Get Started](/home.md)
