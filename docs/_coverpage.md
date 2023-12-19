@@ -1,12 +1,13 @@
 <!-- _coverpage.md -->
 
-# docsify <small>v4</small>
+# MCKidlet's VM Wonderland
 
-> This template uses this magical documentation site generator.
+> This documentation website will give you tips and tricks on how to get into the world of Virtual Machines.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Learn to build your first VM
+- Learn what software to use and what not to use
+- Helpful websites and documentation available.
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[Twitch](https://github.com/docsifyjs/docsify/)
+[Discord](https://discord.com/)
 [Get Started](#docsify)
