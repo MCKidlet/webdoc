@@ -20,3 +20,10 @@ When you launch into **VirtualBox** after downloading it, you will see a screen 
 ![Launch Screen](/docs/guide/images/IMG_0386.png)
 **Let's go through the options on this screen.** There's some comoon options you'll see across virtualization software, such as **importing a virutal machine**, **adding a virtual machine**, and **modifying a virtual machine**. These options are essential to modern virtualization software. Now you've started building your first virtual machine, the options may seem overwhelming when you're on your own, but don't fret, it's really simple.
 ![Building Screen](/docs/guide/images/IMG_0387.jpeg)
+**Let's learn what all the options do.** Now this may not exactly replicate what software you're using, but it still has the same elements, a VM directory, a VM name, and an OS the VM will use. These are also very commonly seen throughout other GUI virtualization software such as VMware Workstation, UTM, and so on.
+
+* **VM Directory** : The location of where your virtual machine is stored, the default one may not be a location where you have enough storage, you might want to relocate your virtual machine to your D: drive instead.
+* **VM Name** : This is the name you'll give your virtual machine, you can stick with the preset name it gives you but if you want to immediately recognize your VM from the other ones you may have on your system, it's best to name it.
+* **VM OS** : This is the operating system you'll put on your virtual machine, many virtualization softwares require you to specify the operating system so your virtual machine can run properly.
+
+
