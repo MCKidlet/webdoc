@@ -32,8 +32,8 @@ When you launch into **VirtualBox** after downloading it, you will see a screen 
 * **VM Name** : This is the name you'll give your virtual machine, you can stick with the preset name it gives you but if you want to immediately recognize your VM from the other ones you may have on your system, it's best to name it.
 * **VM OS** : This is the operating system you'll put on your virtual machine, many virtualization softwares require you to specify the operating system so your virtual machine can run properly.
 
-Once you completed building the virtual machine you'll most likely find yourself on the BIOS.
+Once you completed building the virtual machine you'll most likely find yourself on the BIOS. Some VM software doesnt show a BIOS screen with an image on it so it can be hard to tell if/when the BIOS even loaded.
 
-**BIOS** : This is what youll see every time the system starts up, it ysually has the logo of the vm software you're using.
+**BIOS** : This is what youll see every time the system starts up, it usually has the logo of the software you're using.
 
 
